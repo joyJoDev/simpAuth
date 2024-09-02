@@ -1,0 +1,3 @@
+/Users/joynerjoseph/CLionProjects/simpAuth2/cmake-build-debug/CMakeFiles/simpAuth2.dir
+/Users/joynerjoseph/CLionProjects/simpAuth2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joynerjoseph/CLionProjects/simpAuth2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
